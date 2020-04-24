@@ -5,7 +5,7 @@ import java.io.IOException;
 public class Test {
 
     public static void main(String[] args) throws IOException{
-        Urls urls1 = new Urls ();
+        Urls urlList = new Urls ();
         System.out.print(Urls.class);
     }
 }
