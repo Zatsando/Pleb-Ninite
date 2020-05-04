@@ -4,8 +4,7 @@ package test;
 import java.io.IOException;
 
 public class Urls {
-    String nameUrl;
-    String urlUrl;
+
 public Urls () throws IOException{   
     System.out.println("Welcome to my AfterFormat Tool!");
         String url_open = "https://github.com/Sycnex/Windows10Debloater/archive/master.zip";
