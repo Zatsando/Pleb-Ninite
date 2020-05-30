@@ -35,7 +35,9 @@ public Urls () throws IOException{
         java.awt.Desktop.getDesktop().browse(java.net.URI.create(url_open12));
         String url_open13 = "https://builds.parsecgaming.com/package/parsec-windows.exe";
         java.awt.Desktop.getDesktop().browse(java.net.URI.create(url_open13));
-        String url_open14 = "https://ninite.com/classicstart-discord-firefox-irfanview-notepadplusplus-qbittorrent-steam-vlc-vscode-winrar/ninite.exe";
+        String url_open14 = "https://ninite.com/adoptjdk8-classicstart-discord-firefox-irfanview-notepadplusplus-qbittorrent-steam-vlc-vscode-winrar/";
         java.awt.Desktop.getDesktop().browse(java.net.URI.create(url_open14));
+        String url_open15 = "https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC";
+        java.awt.Desktop.getDesktop().browse(java.net.URI.create(url_open15));
 }
 }
