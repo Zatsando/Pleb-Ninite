@@ -39,5 +39,7 @@ public Urls () throws IOException{
         java.awt.Desktop.getDesktop().browse(java.net.URI.create(url_open14));
         String url_open15 = "https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC";
         java.awt.Desktop.getDesktop().browse(java.net.URI.create(url_open15));
+        String url_open16 = "https://github.com/Genymobile/scrcpy/releases/download/v1.14/scrcpy-win64-v1.14.zip";
+        java.awt.Desktop.getDesktop().browse(java.net.URI.create(url_open16));
 }
 }
